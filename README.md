@@ -31,4 +31,5 @@ hjálp í notkun þess í hópaverkefnum í forritun.  Allt í allt er ég ánæ
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Það gekk vel að vinna með Markdown. Leiðbeiningarnar sem finna mátti í gegnum verkefnislýsinguna voru skýrar og
+hjálpuðu mikið til.  Í heild var verkefnið áhugavert og skemmtilegt.
