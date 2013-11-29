@@ -7,7 +7,7 @@
 Eftir að það virkaði ekki að boota upp frá USB kubbi í lengri tíma sótti ég VirtualBox og setti upp Linux Mint
 sýndarvél í gegnum Windows.  Mint útgáfan sem ég notaði var Linux Mint 15 Cinnamon 64 bit.
 
-![Mynd af VirtualBox Linux Mint að keyra á Windows 8.](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/1378325_10201310628700519_925920949_n.jpg)
+![Mynd af VirtualBox Linux Mint að keyra á Windows 8.](http://farm6.staticflickr.com/5527/11123205146_1762c0089e_b.jpg)
 
 ## 2. Uppsetning á vim && git
 
