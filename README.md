@@ -20,7 +20,7 @@ Allt gekk snurðulaust fyrir sig.
 Eins og gengur og gerist þegar maður er að læra á nýtt umhverfi voru örðugleikar í upphafi en allt saman var
 þetta áhugavert.  Vim er augljóslega öflugt tæki en ég er ekki viss um að hann sé fyrir mig, í það minnsta ekki
 fyrr en ég fæ verkefni þar sem ég sé augljósa ástæðu til að nota hann.  En eins og með svo margt annað þá skapar
-æfingin meistarann í þessu.  Github aftur á móti er mjög sniðugt forrit, og það er augljóst að það væri mikil 
+æfingin meistarann í þessu.  Github aftur á móti er mjög sniðugt, og það er augljóst að það væri mikil 
 hjálp í notkun þess í hópaverkefnum í forritun.  Allt í allt er ég ánægður með upplifunina.
 
 ## 4. Uppsettur hugbúnaður
